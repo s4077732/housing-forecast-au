@@ -1,0 +1,35 @@
+# Data (don't commit raw datasets - too large, and often licensed)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MLflow
+mlruns/
+mlartifacts/
+
+# Models (large binary files)
+models/*.pkl
+models/*.pt
+models/*.h5
+
+# Environment
+.env
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
