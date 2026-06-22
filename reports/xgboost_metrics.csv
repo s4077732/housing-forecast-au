@@ -1,0 +1,6 @@
+state,model,rmse,mae,mape
+NSW,XGBoost,86.92,82.77,6.3576
+VIC,XGBoost,18.56,17.86,1.912
+QLD,XGBoost,27.25,24.77,2.4137
+SA,XGBoost,21.97,19.46,2.1221
+WA,XGBoost,31.43,26.87,2.673

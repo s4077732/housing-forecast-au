@@ -1,0 +1,6 @@
+state,model,rmse,mae,mape
+NSW,Prophet,45.69,41.89,3.2107
+VIC,Prophet,42.77,38.48,4.1051
+QLD,Prophet,89.71,78.51,7.3968
+SA,Prophet,35.68,28.81,3.078
+WA,Prophet,86.28,66.71,6.4383
